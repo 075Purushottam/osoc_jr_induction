@@ -1,0 +1,24 @@
+commit 4bd24b8fc7739ced710eb6c4af39c2a393708ce0 (HEAD -> main)
+Merge: d3546f0 85a40d1
+Author: Purushottam <pintupatidar444@gmail.com>
+Date:   Thu Jan 6 01:28:48 2022 +0530
+
+    Resolve conflicts
+
+commit 85a40d198c5910ee4a8b563d2dd0fc6c71a3674f (branch-1)
+Author: Purushottam <pintupatidar444@gmail.com>
+Date:   Thu Jan 6 01:24:17 2022 +0530
+
+    Commit in branch-1
+
+commit d3546f02c255fd723846c3c1fb2b03e7c7eb8747
+Author: Purushottam <pintupatidar444@gmail.com>
+Date:   Thu Jan 6 01:17:28 2022 +0530
+
+    Initial Commit-1
+
+commit 6687dac387bcd8e7e41b49f76e83e99e72008aab
+Author: Purushottam <pintupatidar444@gmail.com>
+Date:   Thu Jan 6 01:10:28 2022 +0530
+
+:
